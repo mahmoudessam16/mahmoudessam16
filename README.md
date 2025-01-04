@@ -1,4 +1,4 @@
-#[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=31&pause=1000&color=F1FDE6&width=435&lines=Welcome+Visitor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=31&pause=1000&color=F1FDE6&width=435&lines=Welcome+Visitor)](https://git.io/typing-svg)
 
 
 ## Most Used Languages
